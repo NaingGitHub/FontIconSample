@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZP051YWmTu+N0WSQXApt/HflpiisLDbS2b2ZECMaJZ1xyCo7yq5jxRGmG67bAfS9h5enY2CIGJHi55esGHbMaA==",
+  "success": true,
+  "projectFilePath": "E:\\Testing\\FontIconTesting\\FontIconTesting\\FontIconTesting.iOS\\FontIconTesting.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
